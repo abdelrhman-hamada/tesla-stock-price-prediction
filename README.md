@@ -40,8 +40,8 @@ This project focuses on predicting Tesla (TSLA) stock prices using Deep Learning
 
 | Model | RMSE ↓ | MAE ↓ | Training Speed ⚡ | Performance 📊 |
 |------|--------|------|------------------|---------------|
-| LSTM | 15     | 11   | Medium           | Good          |
-| GRU  | 11     |  8   | Faster           | Very Good     |
+| LSTM | 15.45     | 11.70   | Medium           | Good          |
+| GRU  | 11.29     |  8.37   | Faster           | Very Good     |
 
 
 ---
